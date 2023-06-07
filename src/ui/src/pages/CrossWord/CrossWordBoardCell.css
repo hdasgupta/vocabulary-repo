@@ -1,0 +1,21 @@
+.CellDefault {
+    width: 30px;
+    height: 30px;
+    border: 3px solid black;
+}
+
+.CellReadOnly {
+    background-color: LightGray;
+}
+
+.CellUnselected {
+    background-color: White;
+}
+
+.CellHover {
+    background-color: LightYellow;
+}
+
+.CellSelected {
+    background-color: Yellow;
+}

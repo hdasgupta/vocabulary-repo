@@ -1,0 +1,13 @@
+.Selected {
+    background-color: Yellow;
+    border: 3px dotted lightGray;
+    width: 50px;
+    height: 50px;
+}
+
+.NotSelected {
+    background-color: White;
+    border: 1px dotted black;
+    width: 50px;
+    height: 50px;
+}
